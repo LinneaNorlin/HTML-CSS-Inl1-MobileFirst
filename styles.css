@@ -313,7 +313,7 @@ html, body {
 }
 
 
-/* media queries */
+/* Media queries */
 @media (max-width:380px) {
     #appointment {
         font-size: 0.8rem;
