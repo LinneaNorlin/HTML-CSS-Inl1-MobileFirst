@@ -110,6 +110,10 @@ html, body {
     align-items: center;
     cursor: pointer;
 }
+.navbar-toggler:hover {
+    color: #2ba8ecda;
+    transform: scale(.9);
+}
 .collapse:not(.show) {
     display: none;
 }  
